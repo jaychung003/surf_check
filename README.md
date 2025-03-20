@@ -15,16 +15,20 @@
    cd surf_check
 
 2. **Create and activate a virtual environment**
+    ```sh
     python -m venv venv
     source venv/bin/activate  # Mac/Linux
     venv\Scripts\activate      # Windows
 
 3. **Install dependencies**
+    ```sh
     pip install -r requirements.txt
 
-4. **Set up environment variables**
-    SERVICE_ACCOUNT_FILE: Path to your Google Calendar API service account JSON file. Details: https://developers.google.com/workspace/guides/create-credentials
-	CALENDAR_ID: Your Google Calendar ID.
+4. **Set up environment variables in .env**
+   
+   SERVICE_ACCOUNT_FILE: Path to your Google Calendar API service account JSON file. Details: https://developers.google.com/workspace/guides/create-credentials
+   EMAIL_ADDRESS: Your gmail email address to access Google Calendar.
+   OPENAI_API_KEY: your OpenAI api key
 
 ## 📊 How It Works
 	1.	Check free time slots using the Google Calendar API.
