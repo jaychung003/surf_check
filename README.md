@@ -49,6 +49,6 @@
 ## 🏗️ Future Improvements
 	•	Nearby surf spots detected based on user location
 	•	Allow users to input preferred surf conditions.
-    	•	Automatically calculate estimated time to surf spots
+    •	Automatically calculate estimated time to surf spots
 
 Author: Jay Chung
