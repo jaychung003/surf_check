@@ -47,8 +47,8 @@
 	•	pytz
 
 ## 🏗️ Future Improvements
-	•	:round_pushpin: Nearby surf spots detected based on user location
-	•	:ocean: Allow users to input preferred surf conditions.
-    •   :car: Automatically calculate estimated time to surf spots
+	•	Nearby surf spots detected based on user location
+	•	Allow users to input preferred surf conditions.
+    	•	Automatically calculate estimated time to surf spots
 
 Author: Jay Chung
